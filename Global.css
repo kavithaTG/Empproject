@@ -1,0 +1,64 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color:#eeff;
+}
+#homediv{
+    margin: 0;
+    padding: 0;
+
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height:100vh;
+
+}
+#navsec{
+    display: flex;
+   
+}
+#navul{
+    
+    list-style: none;
+    align-items: center;
+
+}
+#signin{
+    justify-content: center;
+}
+
+
+
+#navul li a{
+    text-decoration: none;
+    padding-left: 20vh;
+}
+#navul li{
+    justify-content: space-around;
+    
+   
+}
+#logdiv{
+    margin: 0;
+    padding-bottom: 40px;
+}
+#navul{
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    
+}
+
+#portimg{
+    height: 100vh;
+    width: 100vh;
+}
+
+#navdiv{
+    height: 15px;
+    width: 100px;
+    background-color: burlywood;
+
+}
